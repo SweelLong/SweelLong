@@ -1,6 +1,6 @@
 ## Hi there 👋
 ---
-A mod of Teraria running in tModLoader called StarryNightMod is currently being developed by our Starry Night Team in a private repository !————~——QQ群：982545998
+A mod of Teraria running in tModLoader called StarryNightMod is currently being developed by our Starry Night Team in a private repository !
 
 - 🔭 I’m currently working on StarryNightMod.
 - 🌱 I’m currently learning C/C++.
