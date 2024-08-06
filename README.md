@@ -8,7 +8,7 @@ A mod of Teraria running in tModLoader called StarryNightMod is currently being 
 - 🤔 I’m looking for help with my programming skills.
 - 💬 Ask me about programming related topics.
 - 📫 How to reach me: sweellong@qq.com
-- 😄 Pronouns: sweel
+- 😄 Pronouns: sweel / S.L.
 - ⚡ Fun fact: I'm an incapable person.
 ---
 ### ⭐[仓库推荐](https://github.com/SweelLong?tab=stars)
