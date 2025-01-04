@@ -13,8 +13,8 @@ A mod of Teraria running in tModLoader called StarryNightMod is currently being 
 ---
 ### ⭐[仓库推荐](https://github.com/SweelLong?tab=stars)
 ### 🪁[部分开源项目](https://github.com/SweelLong)
-### 🏆~~[泰拉瑞亚中文论坛相关资源发布](https://www.bbstr.net/members/18970/#resources)~~
-### 💎~~[欢迎加入泰拉瑞亚星月之夜模组制作群](https://qm.qq.com/q/H72ISrEAsW)~~
+### 🏆[中文论坛相关资源发布](https://www.bbstr.net/members/18970/#resources)
+### 💎[欢迎加入星月之夜制作群](https://qm.qq.com/q/H72ISrEAsW)
 ### 📢[点击前往废弃的个人博客（GitHub Profile 暂时作为新博客吧，嘿嘿！）](https://sweellong.github.io)
 ---
 - [随机二次元图片👇（无法显示就刷新！）](https://www.dmoe.cc)
