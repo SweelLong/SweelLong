@@ -3,7 +3,7 @@
 A mod of Teraria running in tModLoader called StarryNightMod is currently being developed by our Starry Night Team in a private repository !
 
 - 🔭 I’m currently working on StarryNightMod.
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning C/C++ & C#.
 - 👯 I’m looking to collaborate on developing StarryNightMod.
 - 🤔 I’m looking for help with my programming skills.
 - 💬 Ask me about programming related topics.
