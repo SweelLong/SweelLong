@@ -20,4 +20,4 @@ A mod of Teraria running in tModLoader called StarryNightMod is currently being 
 - [随机二次元图片👇（无法显示就刷新！）](https://www.dmoe.cc)
 ![随机二次元API](https://www.dmoe.cc/random.php)
 
-## 👇下面是相对能看的仓库，目前留下的都没什么质量，等我抽空一定学QT和MAUI！！！最早的开发记录可以追溯到2020年，还有一些项目因为各种原因丢失啦！[更多仓库](https://github.com/SweelLong?tab=repositories)
+## 👇欢迎参观我的儿童玩具仓库，有时间一定学QT和MAUI。还有一些项目因为各种原因丢失啦！[更多仓库](https://github.com/SweelLong?tab=repositories)
