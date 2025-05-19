@@ -3,7 +3,7 @@
 - 🌱 个人学习路径（时间顺序）C#、HTML、C、C++、CSS、Javascript、Python、Node.js...(一般进行时)
 - 📫 邮箱: sweellong@qq.com
 - 😄 简称: sweel
-- ⚡ 事实: 蒟蒻一枚
+- ⚡ 事实: 蒟蒻
 ---
 ### ⭐[仓库推荐](https://github.com/SweelLong?tab=stars)
 ### 🪁[部分开源项目](https://github.com/SweelLong)
