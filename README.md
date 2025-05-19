@@ -1,6 +1,6 @@
 ## Hi there, I'm SweelLong 👋
 ---
-- 🌱 个人学习路径（时间顺序）C#、HTML、C、C++、CSS、Javascript、Python、Node.js...
+- 🌱 个人学习路径（时间顺序）C#、HTML、C、C++、CSS、Javascript、Python、Node.js...(一般进行时)
 - 📫 邮箱: sweellong@qq.com
 - 😄 简称: sweel
 - ⚡ 事实: 蒟蒻一枚
