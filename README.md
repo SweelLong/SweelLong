@@ -1,23 +1,20 @@
 ## Hi there, I'm SweelLong 👋
 ---
-A mod of Teraria running in tModLoader called StarryNightMod is currently being developed by our Starry Night Team in a private repository !
-
-- 🔭 I’m currently working on StarryNightMod.
-- 🌱 I’m currently learning C/C++ & C#.
-- 👯 I’m looking to collaborate on developing StarryNightMod.
-- 🤔 I’m looking for help with my programming skills.
-- 💬 Ask me about programming related topics.
-- 📫 How to reach me: sweellong@qq.com
-- 😄 Pronouns: sweel / S.L.
-- ⚡ Fun fact: I'm an incapable person.
+- 🌱 个人学习路径（时间顺序）C#、HTML、C、C++、CSS、Javascript、Python、Node.js...
+- 📫 邮箱: sweellong@qq.com
+- 😄 简称: sweel
+- ⚡ 事实: 蒟蒻一枚
 ---
 ### ⭐[仓库推荐](https://github.com/SweelLong?tab=stars)
 ### 🪁[部分开源项目](https://github.com/SweelLong)
-### 🏆[中文论坛相关资源发布](https://www.bbstr.net/members/18970/#resources)
-### 💎[欢迎加入星月之夜制作群](https://qm.qq.com/q/H72ISrEAsW)
 ### 📢[点击前往废弃的个人博客（GitHub Profile 暂时作为新博客吧，嘿嘿！）](https://sweellong.github.io)
 ---
+
+### 欢迎参观我的部分仓库（都是一些玩具啦）👉[Go](https://github.com/SweelLong?tab=repositories)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SweelLong&show_icons=true&theme=material-palenight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SweelLong&theme=material-palenight&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)
+
 - [随机二次元图片👇（无法显示就刷新！）](https://www.dmoe.cc)
 ![随机二次元API](https://www.dmoe.cc/random.php)
-
-## 👇欢迎参观我的儿童玩具仓库，有时间一定学QT和MAUI。还有一些项目因为各种原因丢失啦！[更多仓库](https://github.com/SweelLong?tab=repositories)
