@@ -1,10 +1,8 @@
 ## Hi there, I'm SweelLong 👋
----
 - 🌱 语言学习经历: C#、XML、HTML、CSS、JavaScript、C、C++、MySQL、Python、Node.js...
 - 📫 邮箱: sweellong@qq.com
 - 😄 简称: sweel、沙拉酱
 - ⚡ 事实: 蒟蒻
----
 ### ⭐[查看仓库推荐](https://github.com/SweelLong?tab=stars)
 ### 📢[前往我的博客](https://sweellong.github.io)
 ---
