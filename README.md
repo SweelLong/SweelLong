@@ -3,10 +3,9 @@
 - 📫 邮箱: sweellong@qq.com
 - 😄 简称: sweel、沙拉酱
 - ⚡ 事实: 蒟蒻
-### ⭐[查看仓库推荐](https://github.com/SweelLong?tab=stars)
-### 📢[前往我的博客](https://sweellong.github.io)
+## 📢[前往我的博客](https://sweellong.github.io)
 ---
-### 欢迎参观我的玩家仓库👉[Go](https://github.com/SweelLong?tab=repositories)
+## 欢迎参观我的玩具仓库👉[Go](https://github.com/SweelLong?tab=repositories)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SweelLong&show_icons=true&theme=material-palenight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SweelLong&theme=material-palenight&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)
 - [随机二次元图片👇（无法显示就刷新！）](https://www.dmoe.cc)
