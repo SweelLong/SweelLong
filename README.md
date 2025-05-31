@@ -5,8 +5,8 @@
 - 😄 简称: sweel、沙拉酱
 - ⚡ 事实: 蒟蒻
 ---
-### ⭐[仓库推荐](https://github.com/SweelLong?tab=stars)
-### 📢[点击前往我的博客](https://sweellong.github.io)
+### ⭐[查看仓库推荐](https://github.com/SweelLong?tab=stars)
+### 📢[前往我的博客](https://sweellong.github.io)
 ---
 ### 欢迎参观我的玩家仓库👉[Go](https://github.com/SweelLong?tab=repositories)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SweelLong&show_icons=true&theme=material-palenight)
