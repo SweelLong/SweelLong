@@ -1,7 +1,7 @@
 ## Hi there, I'm SweelLong 👋
 - 🌱 语言学习经历: C#、XML、HTML、CSS、JavaScript、C、C++、MySQL、Python、Node.js...
 - 📫 邮箱: sweellong@qq.com
-- 😄 简称: Sweelo、sweel、sw、沙拉酱
+- 😄 简称: Swiro、sweel、sw、沙拉酱
 - ⚡ 事实: 蒟蒻
 ## 📢[前往我的博客](https://sweellong.github.io)
 ---
