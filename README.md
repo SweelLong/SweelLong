@@ -3,6 +3,7 @@
 - 📫 邮箱: sweellong@qq.com
 - 😄 简称: Swiro、sweel、sw、沙拉酱
 - ⚡ 事实: 蒟蒻
+由于一些不可控的因素，Arcaea API（基于底层模拟+DFS暴力打表实现）解密程序仓库暂不公开！
 ## 📢[前往我的博客](https://sweellong.github.io)
 ---
 ## 欢迎参观我的玩具仓库👉[Go](https://github.com/SweelLong?tab=repositories)
