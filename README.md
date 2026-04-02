@@ -4,8 +4,8 @@ A programming enthusiast who loves exploring new technologies and building pract
 
 🔧 Skills & Tech Stack
 
-- Languages: C# · C · C++ · Python · Java · JavaScript · Zig · Go
-- Frontend: HTML · CSS · JavaScript
+- Languages: C# · C · C++ · Python · Java · JavaScript · Go · TypeScript · ArkTS
+- Frontend: HTML · CSS · JavaScript · Vue
 - Backend & Tools: Node.js · MySQL · SQLite
 - Fields of interest: Program development, tool making, small project practice, reverse engineering
 
