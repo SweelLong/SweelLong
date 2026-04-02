@@ -19,7 +19,7 @@ A programming enthusiast who loves exploring new technologies and building pract
 - Familiar with IDA Pro, lldb dynamic debugging
 
 💻 Operating Systems
-- Ubuntu 24.04.4 LTS
+- Ubuntu 24
 - macOS Tahoe 26
 - Windows 11
 
