@@ -25,7 +25,7 @@ A programming enthusiast who loves exploring new technologies and building pract
 
 📫 How to reach me
 
-- Email: sweellong@qq.com
+- Email: contact@swiro.top
 - Blog: [浮华のloc](https://blog.swiro.top)
 
 🧸 Projects & Toys
