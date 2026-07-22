@@ -34,5 +34,6 @@ All my small projects and experimental code are here:[github.com/SweelLong](http
   
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SweelLong&show_icons=true&theme=material-palenight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SweelLong&theme=material-palenight&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)
+![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=SweelLong&show_icons=true&theme=material-palenight)
+
+![Most Used Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SweelLong&theme=material-palenight&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)
